@@ -76,7 +76,7 @@ Alessandro_Volta	Are Count Volta 's original instruments and papers on display t
 Alessandro_Volta	Did he not realize that the frog 's leg served as both a conductor of electricity -LRB- we would now call it an electrolyte -RRB- and as a detector of electricity ?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	What happened with $ its invention?	NULL	NULL	NULL	S08_set4_a10
-Alessandro_Volta	HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?	NULL	NULL	NULL	S08_set4_a10
+Alessandro_Volta	What happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?	NULL	NULL	NULL	S08_set4_a10
 Alessandro_Volta	What happened in 1800?	NULL	NULL	NULL	S08_set4_a10
 
 Amedeo_Avogadro	What was an Italian savant?	NULL	NULL	NULL	S08_set4_a8
